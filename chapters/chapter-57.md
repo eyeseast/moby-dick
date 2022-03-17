@@ -1,0 +1,20 @@
+---
+title: CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone;
+  in Mountains; in Stars.
+---
+
+Throughout the Pacific, and also in Nantucket, and New Bedford, and Sag Harbor, you will come across lively sketches of whales and whaling-scenes, graven by the fishermen themselves on Sperm Whale-teeth, or ladies’ busks wrought out of the Right Whale-bone, and other like skrimshander articles, as the whalemen call the numerous little ingenious contrivances they elaborately carve out of the rough material, in their hours of ocean leisure. Some of them have little boxes of dentistical-looking implements, specially intended for the skrimshandering business. But, in general, they toil with their jack-knives alone; and, with that almost omnipotent tool of the sailor, they will turn you out anything you please, in the way of a mariner’s fancy.
+
+Now, one of the peculiar characteristics of the savage in his domestic hours, is his wonderful patience of industry. An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon. For, with but a bit of broken sea-shell or a shark’s tooth, that miraculous intricacy of wooden net-work has been achieved; and it has cost steady years of steady application.
+
+As with the Hawaiian savage, so with the white sailor-savage. With the same marvellous patience, and with the same single shark’s tooth, of his one poor jack-knife, he will carve you a bit of bone sculpture, not quite as workmanlike, but as close packed in its maziness of design, as the Greek savage, Achilles’s shield; and full of barbaric spirit and suggestiveness, as the prints of that fine old Dutch savage, Albert Durer.
+
+Wooden whales, or whales cut in profile out of the small dark slabs of the noble South Sea war-wood, are frequently met with in the forecastles of American whalers. Some of them are done with much accuracy.
+
+In bony, ribby regions of the earth, where at the base of high broken cliffs masses of rock lie strewn in fantastic groupings upon the plain, you will often discover images as of the petrified forms of the Leviathan partly merged in grass, which of a windy day breaks against them in a surf of green surges.
+
+Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges. But you must be a thorough whaleman, to see these sights; and not only that, but if you wish to return to such a sight again, you must be sure and take the exact intersecting latitude and longitude of your first stand-point, else so chance-like are such observations of the hills, that your precise, previous stand-point would require a laborious re-discovery; like the Soloma Islands, which still remain incognita, though once high-ruffed Mendanna trod them and old Figuera chronicled them.
+
+Nor when expandingly lifted by your subject, can you fail to trace out great whales in the starry heavens, and boats in pursuit of them; as when long filled with thoughts of war the Eastern nations saw armies locked in battle among the clouds. Thus at the North have I chased Leviathan round and round the Pole with the revolutions of the bright points that first defined him to me. And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish.
+
+With a frigate’s anchors for my bridle-bitts and fasces of harpoons for spurs, would I could mount that whale and leap the topmost skies, to see whether the fabled heavens with all their countless tents really lie encamped beyond my mortal sight!
