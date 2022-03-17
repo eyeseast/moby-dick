@@ -1,6 +1,6 @@
 ---
-subhead: “AND I ONLY AM ESCAPED ALONE TO TELL THEE” Job.
 title: Epilogue
+subhead: “AND I ONLY AM ESCAPED ALONE TO TELL THEE” Job.
 ---
 
 The drama’s done. Why then here does any one step forth?—Because one did survive the wreck.

@@ -1,6 +1,6 @@
 ---
-subhead: The Pequod, of Nantucket, Meets the Samuel Enderby, of London.
 title: CHAPTER 100. Leg and Arm.
+subhead: The Pequod, of Nantucket, Meets the Samuel Enderby, of London.
 ---
 
 “Ship, ahoy! Hast seen the White Whale?”

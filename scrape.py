@@ -26,16 +26,16 @@ def main():
     toc = soup.find("blockquote")
     headings = toc.select("p.toc")
 
-    for heading in headings:
+    for i, heading in enumerate(headings):
         link = heading.find("a")
         if link:
             href = link["href"]
             marker = soup.select_one(href)
             if marker:
-                extract_chapter(marker, soup)
+                extract_chapter(marker, i, soup)
 
 
-def extract_chapter(marker, soup):
+def extract_chapter(marker, index, soup):
     if marker.parent.name == "p":
         marker = marker.parent
 
@@ -66,12 +66,12 @@ def extract_chapter(marker, soup):
     content = [tag.string for tag in paragraphs if tag.name == "p" and tag.string]
     content = [collapse_whitespace(p) for p in content]
     text = "\n\n".join(p for p in content if p.strip())
-    text = textwrap.dedent(text)
+    # text = textwrap.dedent(text)
 
     # save it in a frontmatter file
-    path = CHAPTERS / f"{slugify(name)}.md"
+    path = CHAPTERS / f"{index:03}_{slugify(name)}.md"
     post = frontmatter.Post(text, **metadata)
-    frontmatter.dump(post, path)
+    frontmatter.dump(post, path, sort_keys=False)
 
 
 def collapse_whitespace(text):

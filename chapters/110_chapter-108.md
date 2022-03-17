@@ -1,6 +1,6 @@
 ---
-subhead: The Deck—First Night Watch.
 title: CHAPTER 108. Ahab and the Carpenter.
+subhead: The Deck—First Night Watch.
 ---
 
 Well, manmaker!
