@@ -24,6 +24,8 @@ Fired by the cry which seemed simultaneously taken up by the three look-outs, th
 
 “I saw him almost that same instant, sir, that Captain Ahab did, and I cried out,” said Tashtego.
 
+“Not the same instant; not the same—no, the doubloon is mine, Fate reserved the doubloon for me.Ionly; none of ye could have raised the White Whale first. There she blows!—there she blows!—there she blows! There again!—there again!” he cried, in long-drawn, lingering, methodic tones, attuned to the gradual prolongings of the whale’s visible jets. “He’s going to sound! In stunsails! Down top-gallant-sails! Stand by three boats. Mr. Starbuck, remember, stay on board, and keep the ship. Helm there! Luff, luff a point! So; steady, man, steady! There go flukes! No, no; only black water! All ready the boats there? Stand by, stand by! Lower me, Mr. Starbuck; lower, lower,—quick, quicker!” and he slid through the air to the deck.
+
 “He is heading straight to leeward, sir,” cried Stubb, “right away from us; cannot have seen the ship yet.”
 
 “Be dumb, man! Stand by the braces! Hard down the helm!—brace up! Shiver her!—shiver her!—So; well that! Boats, boats!”

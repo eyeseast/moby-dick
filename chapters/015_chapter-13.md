@@ -18,11 +18,15 @@ At the same foam-fountain, Queequeg seemed to drink and reel with me. His dusky 
 
 “Capting! Capting!” yelled the bumpkin, running towards that officer; “Capting, Capting, here’s the devil.”
 
+“Hallo,yousir,” cried the Captain, a gaunt rib of the sea, stalking up to Queequeg, “what in thunder do you mean by that? Don’t you know you might have killed that chap?”
+
 “What him say?” said Queequeg, as he mildly turned to me.
 
 “He say,” said I, “that you came near kill-e that man there,” pointing to the still shivering greenhorn.
 
 “Kill-e,” cried Queequeg, twisting his tattooed face into an unearthly expression of disdain, “ah! him bevy small-e fish-e; Queequeg no kill-e so small-e fish-e; Queequeg kill-e big whale!”
+
+“Look you,” roared the Captain, “I’ll kill-eyou, you cannibal, if you try any more of your tricks aboard here; so mind your eye.”
 
 But it so happened just then, that it was high time for the Captain to mind his own eye. The prodigious strain upon the main-sail had parted the weather-sheet, and the tremendous boom was now flying from side to side, completely sweeping the entire after part of the deck. The poor fellow whom Queequeg had handled so roughly, was swept overboard; all hands were in a panic; and to attempt snatching at the boom to stay it, seemed madness. It flew from right to left, and back again, almost in one ticking of a watch, and every instant seemed on the point of snapping into splinters. Nothing was done, and nothing seemed capable of being done; those on deck rushed towards the bows, and stood eyeing the boom as if it were the lower jaw of an exasperated whale. In the midst of this consternation, Queequeg dropped deftly to his knees, and crawling under the path of the boom, whipped hold of a rope, secured one end to the bulwarks, and then flinging the other like a lasso, caught it round the boom as it swept over his head, and at the next jerk, the spar was that way trapped, and all was safe. The schooner was run into the wind, and while the hands were clearing away the stern boat, Queequeg, stripped to the waist, darted from the side with a long living arc of a leap. For three minutes or more he was seen swimming like a dog, throwing his long arms straight out before him, and by turns revealing his brawny shoulders through the freezing foam. I looked at the grand and glorious fellow, but saw no one to be saved. The greenhorn had gone down. Shooting himself perpendicularly from the water, Queequeg, now took an instant’s glance around him, and seeming to see just how matters were, dived down and disappeared. A few minutes more, and he rose again, one arm still striking out, and with the other dragging a lifeless form. The boat soon picked them up. The poor bumpkin was restored. All hands voted Queequeg a noble trump; the captain begged his pardon. From that hour I clove to Queequeg like a barnacle; yea, till poor Queequeg took his last long dive.
 

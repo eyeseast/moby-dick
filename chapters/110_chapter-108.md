@@ -3,6 +3,12 @@ title: CHAPTER 108. Ahab and the Carpenter.
 subhead: The Deck—First Night Watch.
 ---
 
+(Carpenter standing before his vice-bench, and by the light of two lanterns busily filing the ivory joist for the leg, which joist is firmly fixed in the vice. Slabs of ivory, leather straps, pads, screws, and various tools of all sorts lying about the bench. Forward, the red flame of the forge is seen, where the blacksmith is at work.)
+
+Drat the file, and drat the bone! That is hard which should be soft, and that is soft which should be hard. So we go, who file old jaws and shinbones. Let’s try another. Aye, now, this works better (sneezes). Halloa, this bone dust is (sneezes)—why it’s (sneezes)—yes it’s (sneezes)—bless my soul, it won’t let me speak! This is what an old fellow gets now for working in dead lumber. Saw a live tree, and you don’t get this dust; amputate a live bone, and you don’t get it (sneezes). Come, come, you old Smut, there, bear a hand, and let’s have that ferule and buckle-screw; I’ll be ready for them presently. Lucky now (sneezes) there’s no knee-joint to make; that might puzzle a little; but a mere shinbone—why it’s easy as making hop-poles; only I should like to put a good finish on. Time, time; if I but only had the time, I could turn him out as neat a leg now as ever (sneezes) scraped to a lady in a parlor. Those buckskin legs and calves of legs I’ve seen in shop windows wouldn’t compare at all. They soak water, they do; and of course get rheumatic, and have to be doctored (sneezes) with washes and lotions, just like live legs. There; before I saw it off, now, I must call his old Mogulship, and see whether the length will be all right; too short, if anything, I guess. Ha! that’s the heel; we are in luck; here he comes, or it’s somebody else, that’s certain.
+
+AHAB (advancing). (During the ensuing scene, the carpenter continues sneezing at times.)
+
 Well, manmaker!
 
 Just in time, sir. If the captain pleases, I will now mark the length. Let me measure, sir.
@@ -24,6 +30,8 @@ Um-m. So he must. I do deem it now a most meaning thing, that that old Greek, Pr
 Sir?
 
 Hold; while Prometheus is about it, I’ll order a complete man after a desirable pattern. Imprimis, fifty feet high in his socks; then, chest modelled after the Thames Tunnel; then, legs with roots to ’em, to stay in one place; then, arms three feet through the wrist; no heart at all, brass forehead, and about a quarter of an acre of fine brains; and let me see—shall I order eyes to see outwards? No, but put a sky-light on top of his head to illuminate inwards. There, take the order, and away.
+
+Now, what’s he speaking about, and who’s he speaking to, I should like to know? Shall I keep standing here? (aside).
 
 ’Tis but indifferent architecture to make a blind dome; here’s one. No, no, no; I must have a lantern.
 
@@ -60,5 +68,9 @@ Good Lord! Truly, sir, if it comes to that, I must calculate over again; I think
 Look ye, pudding-heads should never grant premises.—How long before the leg is done?
 
 Perhaps an hour, sir.
+
+Bungle away at it then, and bring it to me (turns to go). Oh, Life! Here I am, proud as Greek god, and yet standing debtor to this blockhead for a bone to stand on! Cursed be that mortal inter-indebtedness which will not do away with ledgers. I would be free as air; and I’m down in the whole world’s books. I am so rich, I could have given bid for bid with the wealthiest Prætorians at the auction of the Roman empire (which was the world’s); and yet I owe for the flesh in the tongue I brag with. By heavens! I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra. So.
+
+CARPENTER (resuming his work).
 
 Well, well, well! Stubb knows him best of all, and Stubb always says he’s queer; says nothing but that one sufficient little word queer; he’s queer, says Stubb; he’s queer—queer, queer; and keeps dinning it into Mr. Starbuck all the time—queer—sir—queer, queer, very queer. And here’s his leg! Yes, now that I think of it, here’s his bedfellow! has a stick of whale’s jaw-bone for a wife! And this is his leg; he’ll stand on this. What was that now about one leg standing in three places, and all three places standing in one hell—how was that? Oh! I don’t wonder he looked so scornful at me! I’m a sort of strange-thoughted sometimes, they say; but that’s only haphazard-like. Then, a short, little old body like me, should never undertake to wade out into deep waters with tall, heron-built captains; the water chucks you under the chin pretty quick, and there’s a great cry for life-boats. And here’s the heron’s leg! long and slim, sure enough! Now, for most folks one pair of legs lasts a lifetime, and that must be because they use them mercifully, as a tender-hearted old lady uses her roly-poly old coach-horses. But Ahab; oh he’s a hard driver. Look, driven one leg to death, and spavined the other for life, and now wears out bone legs by the cord. Halloa, there, you Smut! bear a hand there with those screws, and let’s finish it before the resurrection fellow comes a-calling with his horn for all legs, true or false, as brewery-men go round collecting old beer barrels, to fill ’em up again. What a leg this is! It looks like a real live leg, filed down to nothing but the core; he’ll be standing on this to-morrow; he’ll be taking altitudes on it. Halloa! I almost forgot the little oval slate, smoothed ivory, where he figures up the latitude. So, so; chisel, file, and sand-paper, now!

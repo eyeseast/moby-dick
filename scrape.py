@@ -2,7 +2,6 @@
 import itertools
 import pathlib
 import re
-import textwrap
 
 import frontmatter
 import httpx
@@ -14,6 +13,8 @@ CHAPTERS = pathlib.Path(__file__).parent / "chapters"
 README = pathlib.Path(__file__).parent / "README.md"
 
 WHITESPACE = re.compile(r"\s+")
+
+CONTENT_TAGS = ["p", "table"]
 
 
 def main():
@@ -63,7 +64,7 @@ def extract_chapter(marker, index, soup):
         lambda tag: tag.name != "h2", heading.next_siblings
     )
 
-    content = [tag.string for tag in paragraphs if tag.name == "p" and tag.string]
+    content = [strings(tag) for tag in paragraphs if tag.name in CONTENT_TAGS]
     content = [collapse_whitespace(p) for p in content]
     text = "\n\n".join(p for p in content if p.strip())
     # text = textwrap.dedent(text)
@@ -74,6 +75,13 @@ def extract_chapter(marker, index, soup):
     frontmatter.dump(post, path, sort_keys=False)
 
 
+def strings(tag):
+    if tag.name == "table":
+        return tag.prettify()
+
+    return "".join(map(collapse_whitespace, tag.stripped_strings))
+
+
 def collapse_whitespace(text):
     text = WHITESPACE.sub(" ", text)
     text = text.replace("\n", "")
@@ -81,7 +89,7 @@ def collapse_whitespace(text):
 
 
 def slugify(s):
-    return s.strip().lower().replace(" ", "-")
+    return collapse_whitespace(s).lower().replace(" ", "-")
 
 
 if __name__ == "__main__":

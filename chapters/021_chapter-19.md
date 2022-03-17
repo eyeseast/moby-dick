@@ -22,6 +22,8 @@ Queequeg and I had just left the Pequod, and were sauntering away from the water
 
 “What are you jabbering about, shipmate?” said I.
 
+“He’sgot enough, though, to make up for all deficiencies of that sort in other chaps,” abruptly said the stranger, placing a nervous emphasis upon the wordhe.
+
 “Queequeg,” said I, “let’s go; this fellow has broken loose from somewhere; he’s talking about something and somebody we don’t know.”
 
 “Stop!” cried the stranger. “Ye said true—ye hav’n’t seen Old Thunder yet, have ye?”
@@ -40,9 +42,15 @@ Queequeg and I had just left the Pequod, and were sauntering away from the water
 
 “What do you know about him?”
 
+“What did theytellyou about him? Say that!”
+
 “They didn’t tell much of anything about him; only I’ve heard that he’s a good whale-hunter, and a good captain to his crew.”
 
+“That’s true, that’s true—yes, both true enough. But you must jump when he gives an order. Step and growl; growl and go—that’s the word with Captain Ahab. But nothing about that thing that happened to him off Cape Horn, long ago, when he lay like dead for three days and nights; nothing about that deadly skrimmage with the Spaniard afore the altar in Santa?—heard nothing about that, eh? Nothing about the silver calabash he spat into? And nothing about his losing his leg last voyage, according to the prophecy. Didn’t ye hear a word about them matters and something more, eh? No, I don’t think ye did; how could ye? Who knows it? Not all Nantucket, I guess. But hows’ever, mayhap, ye’ve heard tell about the leg, and how he lost it; aye, ye have heard of that, I dare say. Oh yes,thatevery one knows a’most—I mean they know he’s only one leg; and that a parmacetti took the other off.”
+
 “My friend,” said I, “what all this gibberish of yours is about, I don’t know, and I don’t much care; for it seems to me that you must be a little damaged in the head. But if you are speaking of Captain Ahab, of that ship there, the Pequod, then let me tell you, that I know all about the loss of his leg.”
+
+“Allabout it, eh—sure you do?—all?”
 
 “Pretty sure.”
 

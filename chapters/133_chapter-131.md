@@ -16,6 +16,8 @@ Upon the stranger’s shears were beheld the shattered, white ribs, and some few
 
 “Not forged!” and snatching Perth’s levelled iron from the crotch, Ahab held it out, exclaiming—“Look ye, Nantucketer; here in this hand I hold his death! Tempered in blood, and tempered by lightning are these barbs; and I swear to temper them triply in that hot place behind the fin, where the White Whale most feels his accursed life!”
 
+“Then God keep thee, old man—see’st thou that”—pointing to the hammock—“I bury but one of five stout men, who were alive only yesterday; but were dead ere night. Onlythatone I bury; the rest were buried before they died; you sail upon their tomb.” Then turning to his crew—“Are ye ready there? place the plank then on the rail, and lift the body; so, then—Oh! God”—advancing towards the hammock with uplifted hands—“may the resurrection and the life——”
+
 “Brace forward! Up helm!” cried Ahab like lightning to his men.
 
 But the suddenly started Pequod was not quick enough to escape the sound of the splash that the corpse soon made as it struck the sea; not so quick, indeed, but that some of the flying bubbles might have sprinkled her hull with their ghostly baptism.

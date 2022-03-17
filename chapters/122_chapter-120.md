@@ -2,6 +2,8 @@
 title: CHAPTER 120. The Deck Towards the End of the First Night Watch.
 ---
 
+Ahab standing by the helm. Starbuck approaching him.
+
 “We must send down the main-top-sail yard, sir. The band is working loose and the lee lift is half-stranded. Shall I strike it, sir?”
 
 “Strike nothing; lash it. If I had sky-sail poles, I’d sway them up now.”

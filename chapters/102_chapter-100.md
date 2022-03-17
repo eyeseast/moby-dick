@@ -33,6 +33,8 @@ As good luck would have it, they had had a whale alongside a day or two previous
 
 “And harpoons sticking in near his starboard fin.”
 
+“Aye, aye—they were mine—myirons,” cried Ahab, exultingly—“but on!”
+
 “Give me a chance, then,” said the Englishman, good-humoredly. “Well, this old great-grandfather, with the white head and hump, runs all afoam into the pod, and goes to snapping furiously at my fast-line!
 
 “Aye, I see!—wanted to part it; free the fast-fish—an old trick—I know him.”

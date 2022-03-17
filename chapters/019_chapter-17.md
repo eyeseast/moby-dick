@@ -36,6 +36,8 @@ With a prodigious noise the door flew open, and the knob slamming against the wa
 
 But all we said, not a word could we drag out of him; I almost felt like pushing him over, so as to change his position, for it was almost intolerable, it seemed so painfully and unnaturally constrained; especially, as in all probability he had been sitting so for upwards of eight or ten hours, going too without his regular meals.
 
+“Mrs. Hussey,” said I, “he’saliveat all events; so leave us, if you please, and I will see to this strange affair myself.”
+
 Closing the door upon the landlady, I endeavored to prevail upon Queequeg to take a chair; but in vain. There he sat; and all he could do—for all my polite arts and blandishments—he would not move a peg, nor say a single word, nor even look at me, nor notice my presence in the slightest way.
 
 I wonder, thought I, if this can possibly be a part of his Ramadan; do they fast on their hams that way in his native island. It must be so; yes, it’s part of his creed, I suppose; well, then, let him rest; he’ll get up sooner or later, no doubt. It can’t last for ever, thank God, and his Ramadan only comes once a year; and I don’t believe it’s very punctual then.

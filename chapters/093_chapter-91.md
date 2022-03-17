@@ -2,6 +2,8 @@
 title: CHAPTER 91. The Pequod Meets The Rose-Bud.
 ---
 
+“In vain it was to rake for Ambergriese in the paunch of this Leviathan, insufferable fetor denying not inquiry.”Sir T. Browne, V.E.
+
 It was a week or two after the last whaling scene recounted, and when we were slowly sailing over a sleepy, vapory, mid-day sea, that the many noses on the Pequod’s deck proved more vigilant discoverers than the three pairs of eyes aloft. A peculiar and not very pleasant smell was smelt in the sea.
 
 “I will bet something now,” said Stubb, “that somewhere hereabouts are some of those drugged whales we tickled the other day. I thought they would keel up before long.”
@@ -16,6 +18,8 @@ The Pequod had now swept so nigh to the stranger, that Stubb vowed he recognised
 
 By this time the faint air had become a complete calm; so that whether or no, the Pequod was now fairly entrapped in the smell, with no hope of escaping except by its breezing up again. Issuing from the cabin, Stubb now called his boat’s crew, and pulled off for the stranger. Drawing across her bow, he perceived that in accordance with the fanciful French taste, the upper part of her stem-piece was carved in the likeness of a huge drooping stalk, was painted green, and for thorns had copper spikes projecting from it here and there; the whole terminating in a symmetrical folded bulb of a bright red colour. Upon her head boards, in large gilt letters, he read “Bouton de Rose,”—Rose-button, or Rose-bud; and this was the romantic name of this aromatic ship.
 
+Though Stubb did not understand theBoutonpart of the inscription, yet the wordrose, and the bulbous figure-head put together, sufficiently explained the whole to him.
+
 “A wooden rose-bud, eh?” he cried with his hand to his nose, “that will do very well; but how like all creation it smells!”
 
 Now in order to hold direct communication with the people on deck, he had to pull round the bows to the starboard side, and thus come close to the blasted whale; and so talk over it.
@@ -25,6 +29,10 @@ Arrived then at this spot, with one hand still to his nose, he bawled—“Bouto
 “Yes,” rejoined a Guernsey-man from the bulwarks, who turned out to be the chief-mate.
 
 “Well, then, my Bouton-de-Rose-bud, have you seen the White Whale?”
+
+“Whatwhale?”
+
+“TheWhiteWhale—a Sperm Whale—Moby Dick, have ye seen him?
 
 “Never heard of such a whale. Cachalot Blanche! White Whale—no.”
 
@@ -36,6 +44,8 @@ He now perceived that the Guernsey-man, who had just got into the chains, and wa
 
 “What’s the matter with your nose, there?” said Stubb. “Broke it?”
 
+“I wish it was broken, or that I didn’t have any nose at all!” answered the Guernsey-man, who did not seem to relish the job he was at very much. “But what are you holdingyoursfor?”
+
 “Oh, nothing! It’s a wax nose; I have to hold it on. Fine day, ain’t it? Air rather gardenny, I should say; throw us a bunch of posies, will ye, Bouton-de-Rose?”
 
 “What in the devil’s name do you want here?” roared the Guernseyman, flying into a sudden passion.
@@ -45,6 +55,8 @@ He now perceived that the Guernsey-man, who had just got into the chains, and wa
 “I know that well enough; but, d’ye see, the Captain here won’t believe it; this is his first voyage; he was a Cologne manufacturer before. But come aboard, and mayhap he’ll believe you, if he won’t me; and so I’ll get out of this dirty scrape.”
 
 “Anything to oblige ye, my sweet and pleasant fellow,” rejoined Stubb, and with that he soon mounted to the deck. There a queer scene presented itself. The sailors, in tasselled caps of red worsted, were getting the heavy tackles in readiness for the whales. But they worked rather slow and talked very fast, and seemed in anything but a good humor. All their noses upwardly projected from their faces like so many jib-booms. Now and then pairs of them would drop their work, and run up to the mast-head to get some fresh air. Some thinking they would catch the plague, dipped oakum in coal-tar, and at intervals held it to their nostrils. Others having broken the stems of their pipes almost short off at the bowl, were vigorously puffing tobacco-smoke, so that it constantly filled their olfactories.
+
+Stubb was struck by a shower of outcries and anathemas proceeding from the Captain’s round-house abaft; and looking in that direction saw a fiery face thrust from behind the door, which was held ajar from within. This was the tormented surgeon, who, after in vain remonstrating against the proceedings of the day, had betaken himself to the Captain’s round-house (cabinethe called it) to avoid the pest; but still, could not help yelling out his entreaties and indignations at times.
 
 Marking all this, Stubb argued well for his scheme, and turning to the Guernsey-man had a little chat with him, during which the stranger mate expressed his detestation of his Captain as a conceited ignoramus, who had brought them all into so unsavory and unprofitable a pickle. Sounding him carefully, Stubb further perceived that the Guernsey-man had not the slightest suspicion concerning the ambergris. He therefore held his peace on that head, but otherwise was quite frank and confidential with him, so that the two quickly concocted a little plan for both circumventing and satirizing the Captain, without his at all dreaming of distrusting their sincerity. According to this little plan of theirs, the Guernsey-man, under cover of an interpreter’s office, was to tell the Captain what he pleased, but as coming from Stubb; and as for Stubb, he was to utter any nonsense that should come uppermost in him during the interview.
 

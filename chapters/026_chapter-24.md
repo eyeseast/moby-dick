@@ -26,14 +26,24 @@ But if, in the face of all this, you still declare that whaling has no æsthetic
 
 The whale has no famous author, and whaling no famous chronicler, you will say.
 
+The whale no famous author, and whaling no famous chronicler?Who wrote the first account of our Leviathan? Who but mighty Job! And who composed the first narrative of a whaling-voyage? Who, but no less a prince than Alfred the Great, who, with his own royal pen, took down the words from Other, the Norwegian whale-hunter of those times! And who pronounced our glowing eulogy in Parliament? Who, but Edmund Burke!
+
 True enough, but then whalemen themselves are poor devils; they have no good blood in their veins.
+
+No good blood in their veins?They have something better than royal blood there. The grandmother of Benjamin Franklin was Mary Morrel; afterwards, by marriage, Mary Folger, one of the old settlers of Nantucket, and the ancestress to a long line of Folgers and harpooneers—all kith and kin to noble Benjamin—this day darting the barbed iron from one side of the world to the other.
 
 Good again; but then all confess that somehow whaling is not respectable.
 
+Whaling not respectable?Whaling is imperial! By old English statutory law, the whale is declared “a royal fish.” *
+
 Oh, that’s only nominal! The whale himself has never figured in any grand imposing way.
+
+The whale never figured in any grand imposing way?In one of the mighty triumphs given to a Roman general upon his entering the world’s capital, the bones of a whale, brought all the way from the Syrian coast, were the most conspicuous object in the cymballed procession.*
 
 *See subsequent chapters for something more on this head.
 
 Grant it, since you cite it; but, say what you will, there is no real dignity in whaling.
+
+No dignity in whaling?The dignity of our calling the very heavens attest. Cetus is a constellation in the South! No more! Drive down your hat in presence of the Czar, and take it off to Queequeg! No more! I know a man that, in his lifetime, has taken three hundred and fifty whales. I account that man more honorable than that great captain of antiquity who boasted of taking as many walled towns.
 
 And, as for me, if, by any possibility, there be any as yet undiscovered prime thing in me; if I shall ever deserve any real repute in that small but high hushed world which I might not be unreasonably ambitious of; if hereafter I shall do anything that, upon the whole, a man might rather have done than to have left undone; if, at my death, my executors, or more properly my creditors, find any precious MSS. in my desk, then here I prospectively ascribe all the honor and the glory to whaling; for a whale-ship was my Yale College and my Harvard.

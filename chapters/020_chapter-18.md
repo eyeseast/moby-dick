@@ -24,6 +24,10 @@ As we were walking down the end of the wharf towards the ship, Queequeg carrying
 
 “Young man,” said Bildad sternly, “thou art skylarking with me—explain thyself, thou young Hittite. What church dost thee mean? answer me.”
 
+Finding myself thus hard pushed, I replied. “I mean, sir, the same ancient Catholic Church to which you and I, and Captain Peleg there, and Queequeg here, and all of us, and every mother’s son and soul of us belong; the great and everlasting First Congregation of this whole worshipping world; we all belong to that; only some of us cherish some queer crotchets no ways touching the grand belief; inthatwe all join hands.”
+
+“Splice, thou mean’stsplicehands,” cried Peleg, drawing nearer. “Young man, you’d better ship for a missionary, instead of a fore-mast hand; I never heard a better sermon. Deacon Deuteronomy—why Father Mapple himself couldn’t beat it, and he’s reckoned something. Come aboard, come aboard; never mind about the papers. I say, tell Quohog there—what’s that you call him? tell Quohog to step along. By the great anchor, what a harpoon he’s got there! looks like good stuff that; and he handles it about right. I say, Quohog, or whatever your name is, did you ever stand in the head of a whale-boat? did you ever strike a fish?”
+
 Without saying a word, Queequeg, in his wild sort of way, jumped upon the bulwarks, from thence into the bows of one of the whale-boats hanging to the side; and then bracing his left knee, and poising his harpoon, cried out in some such way as this:—
 
 “Cap’ain, you see him small drop tar on water dere? You see him? well, spose him one whale eye, well, den!” and taking sharp aim at it, he darted the iron right over old Bildad’s broad brim, clean across the ship’s decks, and struck the glistening tar spot out of sight.

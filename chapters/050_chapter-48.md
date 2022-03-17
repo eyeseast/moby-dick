@@ -92,6 +92,8 @@ Soon after, two cries in quick succession on each side of us denoted that the ot
 
 Though not one of the oarsmen was then facing the life and death peril so close to them ahead, yet with their eyes on the intense countenance of the mate in the stern of the boat, they knew that the imminent instant had come; they heard, too, an enormous wallowing sound as of fifty elephants stirring in their litter. Meanwhile the boat was still booming through the mist, the waves curling and hissing around us like the erected crests of enraged serpents.
 
+“That’s his hump.There,there, give it to him!” whispered Starbuck.
+
 A short rushing sound leaped out of the boat; it was the darted iron of Queequeg. Then all in one welded commotion came an invisible push from astern, while forward the boat seemed striking on a ledge; the sail collapsed and exploded; a gush of scalding vapor shot up near by; something rolled and tumbled like an earthquake beneath us. The whole crew were half suffocated as they were tossed helter-skelter into the white curdling cream of the squall. Squall, whale, and harpoon had all blended together; and the whale, merely grazed by the iron, escaped.
 
 Though completely swamped, the boat was nearly unharmed. Swimming round it we picked up the floating oars, and lashing them across the gunwale, tumbled back to our places. There we sat up to our knees in the sea, the water covering every rib and plank, so that to our downward gazing eyes the suspended craft seemed a coral boat grown up to us from the bottom of the ocean.

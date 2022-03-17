@@ -2,6 +2,8 @@
 title: CHAPTER 54. The Town-Ho’s Story.
 ---
 
+(As told at the Golden Inn.)
+
 The Cape of Good Hope, and all the watery region round about there, is much like some noted four corners of a great highway, where you meet more travellers than in any other part.
 
 It was not very long after speaking the Goney that another homeward-bound whaleman, the Town-Ho,* was encountered. She was manned almost wholly by Polynesians. In the short gam that ensued she gave us strong news of Moby Dick. To some the general interest in the White Whale was now wildly heightened by a circumstance of the Town-Ho’s story, which seemed obscurely to involve with the whale a certain wondrous, inverted visitation of one of those so called judgments of God which at times are said to overtake some men. This latter circumstance, with its own particular accompaniments, forming what may be called the secret part of the tragedy about to be narrated, never reached the ears of Captain Ahab or his mates. For that secret part of the story was unknown to the captain of the Town-Ho himself. It was the private property of three confederate white seamen of that ship, one of whom, it seems, communicated it to Tashtego with Romish injunctions of secrecy, but the following night Tashtego rambled in his sleep, and revealed so much of it in that way, that when he was wakened he could not well withhold the rest. Nevertheless, so potent an influence did this thing have on those seamen in the Pequod who came to the full knowledge of it, and by such a strange delicacy, to call it so, were they governed in this matter, that they kept the secret among themselves so that it never transpired abaft the Pequod’s main-mast. Interweaving in its proper place this darker thread with the story as publicly narrated on the ship, the whole of this strange affair I now proceed to put on lasting record.
@@ -128,6 +130,8 @@ For my humor’s sake, I shall preserve the style in which I once narrated it at
 
 “Steelkilt here hissed out something, inaudible to all but the Captain; who, to the amazement of all hands, started back, paced the deck rapidly two or three times, and then suddenly throwing down his rope, said, ‘I won’t do it—let him go—cut him down: d’ye hear?’
 
+“But as the junior mates were hurrying to execute the order, a pale man, with a bandaged head, arrested them—Radney the chief mate. Ever since the blow, he had lain in his berth; but that morning, hearing the tumult on the deck, he had crept out, and thus far had watched the whole scene. Such was the state of his mouth, that he could hardly speak; but mumbling something abouthisbeing willing and able to do what the captain dared not attempt, he snatched the rope and advanced to his pinioned foe.
+
 “‘You are a coward!’ hissed the Lakeman.
 
 “‘So I am, but take that.’ The mate was in the very act of striking, when another hiss stayed his uplifted arm. He paused: and then pausing no more, made good his word, spite of Steelkilt’s threat, whatever that might have been. The three men were then cut down, all hands were turned to, and, sullenly worked by the moody seamen, the iron pumps clanged as before.
@@ -149,6 +153,8 @@ For my humor’s sake, I shall preserve the style in which I once narrated it at
 “But there was none in the forecastle.
 
 “‘Then I must get some from old Rad;’ and he rose to go aft.
+
+“‘You don’t mean to go a begging tohim!’ said a sailor.
 
 “‘Why not? Do you think he won’t do me a turn, when it’s to help himself in the end, shipmate?’ and going to the mate, he looked at him quietly, and asked him for some twine to mend his hammock. It was given him—neither twine nor lanyard were seen again; but the next night an iron ball, closely netted, partly rolled from the pocket of the Lakeman’s monkey jacket, as he was tucking the coat into his hammock for a pillow. Twenty-four hours after, his trick at the silent helm—nigh to the man who was apt to doze over the grave always ready dug to the seaman’s hand—that fatal hour was then to come; and in the fore-ordaining soul of Steelkilt, the mate was already stark and stretched as a corpse, with his forehead crushed in.
 

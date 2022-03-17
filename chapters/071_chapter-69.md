@@ -8,6 +8,8 @@ The vast tackles have now done their duty. The peeled white body of the beheaded
 
 There’s a most doleful and most mocking funeral! The sea-vultures all in pious mourning, the air-sharks all punctiliously in black or speckled. In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce. Oh, horrible vultureism of earth! from which not the mightiest whale is free.
 
+Nor is this the end. Desecrated as the body is, a vengeful ghost survives and hovers over it to scare. Espied by some timid man-of-war or blundering discovery-vessel from afar, when the distance obscuring the swarming fowls, nevertheless still shows the white mass floating in the sun, and the white spray heaving high against it; straightway the whale’s unharming corpse, with trembling fingers is set down in the log—shoals, rocks, and breakers hereabouts: beware!And for years afterwards, perhaps, ships shun the place; leaping over it as silly sheep leap over a vacuum, because their leader originally leaped there when a stick was held. There’s your law of precedents; there’s your utility of traditions; there’s the story of your obstinate survival of old beliefs never bottomed on the earth, and now not even hovering in the air! There’s orthodoxy!
+
 Thus, while in life the great whale’s body may have been a real terror to his foes, in his death his ghost becomes a powerless panic to a world.
 
 Are you a believer in ghosts, my friend? There are other ghosts than the Cock-Lane one, and far deeper men than Doctor Johnson who believe in them.

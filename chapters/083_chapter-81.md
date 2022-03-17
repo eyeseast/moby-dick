@@ -16,6 +16,8 @@ For some reason, the Jungfrau seemed quite eager to pay her respects. While yet 
 
 However curious it may seem for an oil-ship to be borrowing oil on the whale-ground, and however much it may invertedly contradict the old proverb about carrying coals to Newcastle, yet sometimes such a thing really happens; and in the present case Captain Derick De Deer did indubitably conduct a lamp-feeder as Flask did declare.
 
+As he mounted the deck, Ahab abruptly accosted him, without at all heeding what he had in his hand; but in his broken lingo, the German soon evinced his complete ignorance of the White Whale; immediately turning the conversation to his lamp-feeder and oil can, with some remarks touching his having to turn into his hammock at night in profound darkness—his last drop of Bremen oil being gone, and not a single flying-fish yet captured to supply the deficiency; concluding by hinting that his ship was indeed what in the Fishery is technically called acleanone (that is, an empty one), well deserving the name of Jungfrau or the Virgin.
+
 His necessities supplied, Derick departed; but he had not gained his ship’s side, when whales were almost simultaneously raised from the mast-heads of both vessels; and so eager for the chase was Derick, that without pausing to put his oil-can and lamp-feeder aboard, he slewed round his boat and made after the leviathan lamp-feeders.
 
 Now, the game having risen to leeward, he and the other three German boats that soon followed him, had considerably the start of the Pequod’s keels. There were eight whales, an average pod. Aware of their danger, they were going all abreast with great speed straight before the wind, rubbing their flanks as closely as so many spans of horses in harness. They left a great, wide wake, as though continually unrolling a great wide parchment upon the sea.
@@ -35,6 +37,8 @@ With one intent all the combined rival boats were pointed for this one fish, bec
 “The ungracious and ungrateful dog!” cried Starbuck; “he mocks and dares me with the very poor-box I filled for him not five minutes ago!”—then in his old intense whisper—“Give way, greyhounds! Dog to it!”
 
 “I tell ye what it is, men”—cried Stubb to his crew—“it’s against my religion to get mad; but I’d like to eat that villainous Yarman—Pull—won’t ye? Are ye going to let that rascal beat ye? Do ye love brandy? A hogshead of brandy, then, to the best man. Come, why don’t some of ye burst a blood-vessel? Who’s that been dropping an anchor overboard—we don’t budge an inch—we’re becalmed. Halloo, here’s grass growing in the boat’s bottom—and by the Lord, the mast there’s budding. This won’t do, boys. Look at that Yarman! The short and long of it is, men, will ye spit fire or not?”
+
+“Oh! see the suds he makes!” cried Flask, dancing up and down—“What a hump—Oh,dopile on the beef—lays like a log! Oh! my lads,dospring—slap-jacks and quahogs for supper, you know, my lads—baked clams and muffins—oh,do,do, spring,—he’s a hundred barreller—don’t lose him now—don’t oh,don’t!—see that Yarman—Oh, won’t ye pull for your duff, my lads—such a sog! such a sogger! Don’t ye love sperm? There goes three thousand dollars, men!—a bank!—a whole bank! The bank of England!—Oh,do,do,do!—What’s that Yarman about now?”
 
 At this moment Derick was in the act of pitching his lamp-feeder at the advancing boats, and also his oil-can; perhaps with the double view of retarding his rivals’ way, and at the same time economically accelerating his own by the momentary impetus of the backward toss.
 

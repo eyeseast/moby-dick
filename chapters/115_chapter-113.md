@@ -20,7 +20,11 @@ With matted beard, and swathed in a bristling shark-skin apron, about mid-day, P
 
 “Aye, sir, I think I can; all seams and dents but one.”
 
+“Look ye here, then,” cried Ahab, passionately advancing, and leaning with both hands on Perth’s shoulders; “look ye here—here—can ye smoothe out a seam like this, blacksmith,” sweeping one hand across his ribbed brow; “if thou could’st, blacksmith, glad enough would I lay my head upon thy anvil, and feel thy heaviest hammer between my eyes. Answer! Can’st thou smoothe this seam?”
+
 “Oh! that is the one, sir! Said I not all seams and dents but one?”
+
+“Aye, blacksmith, it is the one; aye, man, it is unsmoothable; for though thou only see’st it here in my flesh, it has worked down into the bone of my skull—thatis all wrinkles! But, away with child’s play; no more gaffs and pikes to-day. Look ye here!” jingling the leathern bag, as if it were full of gold coins. “I, too, want a harpoon made; one that a thousand yoke of fiends could not part, Perth; something that will stick in a whale like his own fin-bone. There’s the stuff,” flinging the pouch upon the anvil. “Look ye, blacksmith, these are the gathered nail-stubbs of the steel shoes of racing horses.”
 
 “Horse-shoe stubbs, sir? Why, Captain Ahab, thou hast here, then, the best and stubbornest stuff we blacksmiths ever work.”
 
