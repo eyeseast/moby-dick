@@ -10,6 +10,8 @@ Holding by a shroud, Starbuck was standing on the quarter-deck; at every flash o
 
 “Bad work, bad work! Mr. Starbuck,” said Stubb, regarding the wreck, “but the sea will have its way. Stubb, for one, can’t fight it. You see, Mr. Starbuck, a wave has such a great long start before it leaps, all round the world it runs, and then comes the spring! But as for me, all the start I have to meet it, is just across the deck here. But never mind; it’s all in fun: so the old song says;”—(sings.)
 
+<pre xml:space="preserve"> Oh! jolly is the gale, And a joker is the whale, A’ flourishin’ his tail,— Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the Ocean, oh! The scud all a flyin’, That’s his flip only foamin’; When he stirs in the spicin’,— Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the Ocean, oh! Thunder splits the ships, But he only smacks his lips, A tastin’ of this flip,— Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the Ocean, oh! </pre>
+
 “Avast Stubb,” cried Starbuck, “let the Typhoon sing, and strike his harp here in our rigging; but if thou art a brave man thou wilt hold thy peace.”
 
 “But I am not a brave man; never said I was a brave man; I am a coward; and I sing to keep up my spirits. And I tell you what it is, Mr. Starbuck, there’s no way to stop my singing in this world but to cut my throat. And when that’s done, ten to one I sing ye the doxology for a wind-up.”

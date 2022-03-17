@@ -14,7 +14,7 @@ README = pathlib.Path(__file__).parent / "README.md"
 
 WHITESPACE = re.compile(r"\s+")
 
-CONTENT_TAGS = ["p", "table"]
+CONTENT_TAGS = ["p", "table", "pre"]
 
 
 def main():
@@ -76,7 +76,7 @@ def extract_chapter(marker, index, soup):
 
 
 def strings(tag):
-    if tag.name == "table":
+    if tag.name in ["table", "pre"]:
         return tag.prettify()
 
     return "".join(map(collapse_whitespace, tag.stripped_strings))

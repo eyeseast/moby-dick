@@ -28,6 +28,8 @@ At last the anchor was up, the sails were set, and off we glided. It was a short
 
 Lank Bildad, as pilot, headed the first watch, and ever and anon, as the old craft deep dived into the green seas, and sent the shivering frost all over her, and the winds howled, and the cordage rang, his steady notes were heard,—
 
+<pre xml:space="preserve"> <i>“Sweet fields beyond the swelling flood, Stand dressed in living green. So to the Jews old Canaan stood, While Jordan rolled between.”</i> </pre>
+
 Never did those sweet words sound more sweetly to me than then. They were full of hope and fruition. Spite of this frigid winter night in the boisterous Atlantic, spite of my wet feet and wetter jacket, there was yet, it then seemed to me, many a pleasant haven in store; and meads and glades so eternally vernal, that the grass shot up by the spring, untrodden, unwilted, remains at midsummer.
 
 At last we gained such an offing, that the two pilots were needed no longer. The stout sail-boat that had accompanied us began ranging alongside.

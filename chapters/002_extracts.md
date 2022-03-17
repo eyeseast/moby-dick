@@ -38,15 +38,23 @@ So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belonge
 
 “Very like a whale.” —Hamlet.
 
+<pre xml:space="preserve"> “Which to secure, no skill of leach’s art Mote him availle, but to returne againe To his wound’s worker, that with lowly dart, Dinting his breast, had bred his restless paine, Like as the wounded whale to shore flies thro’ the maine.” —<i>The Fairie Queen</i>. </pre>
+
 “Immense as whales, the motion of whose vast bodies can in a peaceful calm trouble the ocean till it boil.” —Sir William Davenant. Preface to Gondibert.
 
 “What spermacetti is, men might justly doubt, since the learned Hosmannus in his work of thirty years, saith plainly,Nescio quid sit.” —Sir T. Browne. Of Sperma Ceti and the Sperma Ceti Whale. Vide his V. E.
+
+<pre xml:space="preserve"> “Like Spencer’s Talus with his modern flail He threatens ruin with his ponderous tail. ... Their fixed jav’lins in his side he wears, And on his back a grove of pikes appears.” —<i>Waller’s Battle of the Summer Islands</i>. </pre>
 
 “By art is created that great Leviathan, called a Commonwealth or State—(in Latin, Civitas) which is but an artificial man.” —Opening sentence of Hobbes’s Leviathan.
 
 “Silly Mansoul swallowed it without chewing, as if it had been a sprat in the mouth of a whale.” —Pilgrim’s Progress.
 
+<pre xml:space="preserve"> “That sea beast Leviathan, which God of all his works Created hugest that swim the ocean stream.” —<i>Paradise Lost</i>. —“There Leviathan, Hugest of living creatures, in the deep Stretched like a promontory sleeps or swims, And seems a moving land; and at his gills Draws in, and at his breath spouts out a sea.” —<i>Ibid</i>. </pre>
+
 “The mighty whales which swim in a sea of water, and have a sea of oil swimming in them.” —Fuller’s Profane and Holy State.
+
+<pre xml:space="preserve"> “So close behind some promontory lie The huge Leviathan to attend their prey, And give no chance, but swallow in the fry, Which through their gaping jaws mistake the way.” —<i>Dryden’s Annus Mirabilis</i>. </pre>
 
 “While the whale is floating at the stern of the ship, they cut off his head, and tow it with a boat as near the shore as it will come; but it will be aground in twelve or thirteen feet water.” —Thomas Edge’s Ten Voyages to Spitzbergen, in Purchas.
 
@@ -66,6 +74,8 @@ So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belonge
 
 “... and the breath of the whale is frequently attended with such an insupportable smell, as to bring on a disorder of the brain.” —Ulloa’s South America.
 
+<pre xml:space="preserve"> “To fifty chosen sylphs of special note, We trust the important charge, the petticoat. Oft have we known that seven-fold fence to fail, Tho’ stuffed with hoops and armed with ribs of whale.” —<i>Rape of the Lock</i>. </pre>
+
 “If we compare land animals in respect to magnitude, with those that take up their abode in the deep, we shall find they will appear contemptible in the comparison. The whale is doubtless the largest animal in creation.” —Goldsmith, Nat. Hist.
 
 “If you should write a fable for little fishes, you would make them speak like great whales.” —Goldsmith to Johnson.
@@ -82,6 +92,8 @@ So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belonge
 
 “A tenth branch of the king’s ordinary revenue, said to be grounded on the consideration of his guarding and protecting the seas from pirates and robbers, is the right toroyalfish, which are whale and sturgeon. And these, when either thrown ashore or caught near the coast, are the property of the king.” —Blackstone.
 
+<pre xml:space="preserve"> “Soon to the sport of death the crews repair: Rodmond unerring o’er his head suspends The barbed steel, and every turn attends.” —<i>Falconer’s Shipwreck</i>. “Bright shone the roofs, the domes, the spires, And rockets blew self driven, To hang their momentary fire Around the vault of heaven. “So fire with water to compare, The ocean serves on high, Up-spouted by a whale in air, To express unwieldy joy.” —<i>Cowper, on the Queen’s Visit to London</i>. </pre>
+
 “Ten or fifteen gallons of blood are thrown out of the heart at a stroke, with immense velocity.” —John Hunter’s account of the dissection of a whale. (A small sized one.)
 
 “The aorta of a whale is larger in the bore than the main pipe of the water-works at London Bridge, and the water roaring in its passage through that pipe is inferior in impetus and velocity to the blood gushing from the whale’s heart.” —Paley’s Theology.
@@ -89,6 +101,8 @@ So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belonge
 “The whale is a mammiferous animal without hind feet.” —Baron Cuvier.
 
 “In 40 degrees south, we saw Spermacetti Whales, but did not take any till the first of May, the sea being then covered with them.” —Colnett’s Voyage for the Purpose of Extending the Spermaceti Whale Fishery.
+
+<pre xml:space="preserve"> “In the free element beneath me swam, Floundered and dived, in play, in chace, in battle, Fishes of every colour, form, and kind; Which language cannot paint, and mariner Had never seen; from dread Leviathan To insect millions peopling every wave: Gather’d in shoals immense, like floating islands, Led by mysterious instincts through that waste And trackless region, though on every side Assaulted by voracious enemies, Whales, sharks, and monsters, arm’d in front or jaw, With swords, saws, spiral horns, or hooked fangs.” —<i>Montgomery’s World before the Flood</i>. “Io! Paean! Io! sing. To the finny people’s king. Not a mightier whale than this In the vast Atlantic is; Not a fatter fish than he, Flounders round the Polar Sea.” —<i>Charles Lamb’s Triumph of the Whale</i>. </pre>
 
 “In the year 1690 some persons were on a high hill observing the whales spouting and sporting with each other, when one observed: there—pointing to the sea—is a green pasture where our children’s grand-children will go for bread.” —Obed Macy’s History of Nantucket.
 
@@ -102,6 +116,8 @@ So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belonge
 
 “My God! Mr. Chace, what is the matter?” I answered, “we have been stove by a whale.” —“Narrative of the Shipwreck of the Whale Ship Essex of Nantucket, which was attacked and finally destroyed by a large Sperm Whale in the Pacific Ocean.”By Owen Chace of Nantucket, first mate of said vessel. New York, 1821.
 
+<pre xml:space="preserve"> “A mariner sat in the shrouds one night, The wind was piping free; Now bright, now dimmed, was the moonlight pale, And the phospher gleamed in the wake of the whale, As it floundered in the sea.” —<i>Elizabeth Oakes Smith</i>. </pre>
+
 “The quantity of line withdrawn from the boats engaged in the capture of this one whale, amounted altogether to 10,440 yards or nearly six English miles....
 
 “Sometimes the whale shakes its tremendous tail in the air, which, cracking like a whip, resounds to the distance of three or four miles.” —Scoresby.
@@ -109,6 +125,8 @@ So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belonge
 “Mad with the agonies he endures from these fresh attacks, the infuriated Sperm Whale rolls over and over; he rears his enormous head, and with wide expanded jaws snaps at everything around him; he rushes at the boats with his head; they are propelled before him with vast swiftness, and sometimes utterly destroyed.... It is a matter of great astonishment that the consideration of the habits of so interesting, and, in a commercial point of view, so important an animal (as the Sperm Whale) should have been so entirely neglected, or should have excited so little curiosity among the numerous, and many of them competent observers, that of late years, must have possessed the most abundant and the most convenient opportunities of witnessing their habitudes.” —Thomas Beale’s History of the Sperm Whale, 1839.
 
 “The Cachalot” (Sperm Whale) “is not only better armed than the True Whale” (Greenland or Right Whale) “in possessing a formidable weapon at either extremity of its body, but also more frequently displays a disposition to employ these weapons offensively and in manner at once so artful, bold, and mischievous, as to lead to its being regarded as the most dangerous to attack of all the known species of the whale tribe.” —Frederick Debell Bennett’s Whaling Voyage Round the Globe, 1840.
+
+<pre xml:space="preserve"> October 13. “There she blows,” was sung out from the mast-head. “Where away?” demanded the captain. “Three points off the lee bow, sir.” “Raise up your wheel. Steady!” “Steady, sir.” “Mast-head ahoy! Do you see that whale now?” “Ay ay, sir! A shoal of Sperm Whales! There she blows! There she breaches!” “Sing out! sing out every time!” “Ay Ay, sir! There she blows! there—there—<i>thar</i> she blows—bowes—bo-o-os!” “How far off?” “Two miles and a half.” “Thunder and lightning! so near! Call all hands.” —<i>J. Ross Browne’s Etchings of a Whaling Cruize</i>. 1846. </pre>
 
 “The Whale-ship Globe, on board of which vessel occurred the horrid transactions we are about to relate, belonged to the island of Nantucket.” —“Narrative of the Globe Mutiny,”by Lay and Hussey survivors. A.D.1828.
 
@@ -141,3 +159,5 @@ Being once pursued by a whale which he had wounded, he parried the assault for s
 “‘Stern all!’ exclaimed the mate, as upon turning his head, he saw the distended jaws of a large Sperm Whale close to the head of the boat, threatening it with instant destruction;—‘Stern all, for your lives!’” —Wharton the Whale Killer.
 
 “So be cheery, my lads, let your hearts never fail, While the bold harpooneer is striking the whale!” —Nantucket Song.
+
+<pre xml:space="preserve"> “Oh, the rare old Whale, mid storm and gale In his ocean home will be A giant in might, where might is right, And King of the boundless sea.” —<i>Whale Song</i>. </pre>
